@@ -13,3 +13,8 @@ data_validation:
   unzip_data_dir: /Users/santhoshreddy/Downloads/wine project/Wine/artifacts/data_ingestion/winequality-red copy.csv
   STATUS_FILE: artifacts/data_validation/status.txt
 
+
+data_transformation:
+  root_dir: artifacts/data_transformation
+  data_path: /Users/santhoshreddy/Downloads/wine project/Wine/artifacts/data_ingestion/winequality-red copy.csv
+
